@@ -4,7 +4,7 @@
 <h1 align="center">Hola 👋, nosotros somos Delta</h1>
 <h3 align="center">Somos un grupo de desarrolladores jr. comprometidos y enfocados a brindar soluciones de valor a nuestros socios a través de medios tecnológicos y, de esta manera, ayudarlos a lograr sus objetivos de una manera ágil ofreciendo nuestra creatividad y conocimientos</h3>
 
-<h2 align="left">Misión:</h2> <p>Delta nace de la pasión y el compromiso por la tecnología y de ofrecer una alta calidad a las soluciones propuestas en el desarrollo de software, esforzándonos en seguir aprendiendo, avanzando y creciendo en el proceso, dando una experiencia personalizada a nuestros socios.</p>
+<h2 align="left">Misión:</h2> <p><b>Delta</b> nace de la pasión y el compromiso por la tecnología y de ofrecer una alta calidad a las soluciones propuestas en el desarrollo de software, esforzándonos en seguir aprendiendo, avanzando y creciendo en el proceso, dando una experiencia personalizada a nuestros socios.</p>
 
 <h2 align="left">Visión:</h2> <p>Ofrecer soluciones flexibles cumpliendo estándares profesionales internacionales con el fin de garantizar calidad. </p>
 
