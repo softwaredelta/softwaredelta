@@ -1,5 +1,6 @@
 <!-- Se agrega el banner con la imagen Banner.png en la carpeta images, misma que está dentro de la carpeta .vscode  -->
-![](images/Banner.gif)
+![](images/Banner_6.gif)
+
 
 <h1 align="center">Hola 👋, nosotros somos Delta</h1>
 <h3 align="center">Somos un grupo de desarrolladores jr. comprometidos y enfocados a brindar soluciones de valor a nuestros socios a través de medios tecnológicos y, de esta manera, ayudarlos a lograr sus objetivos de una manera ágil ofreciendo nuestra creatividad y conocimientos</h3>
